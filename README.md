@@ -4,7 +4,7 @@ I am a fourth year computer science and business student at the University of Br
 
 I am most interested in learning more about machine learning, game development, analytics and fintech in the fields of software development and product management. Currently, I am leading UBC BizTech's Development team working on the creation of our club's web application.
 
-I'm looking for internship opportunities in the Fall (Sep-Dec) of 2023. If you would like to reach out to me, contact me via LinkedIn or by email at alvin.kam.33@gmail.com!
+I'm looking for internship opportunities in the Summer (Sep-Dec) of 2024. If you would like to reach out to me, contact me via LinkedIn or by email at alvin.kam.33@gmail.com!
 
 <!--
 **alvinkam33/alvinkam33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
